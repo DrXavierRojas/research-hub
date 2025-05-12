@@ -8,7 +8,9 @@ remote_theme: just-the-docs/just-the-docs
 nav:
   - title: Home
     url: index
-  - title: Data Analysis
-    url: data-analysis
-  - title: Data Acquisition
-    url: data-acquisition
+  - title: Modules
+    children:
+      - title: Data Analysis
+        url: data-analysis
+      - title: Data Acquisition
+        url: data-acquisition
