@@ -1,8 +1,10 @@
 title: Research Hub
 description: Unified portal for academic research tooling
-theme: just-the-docs
 
-# Sidebar nav structure
+# ✅ Use Just the Docs as a remote theme
+remote_theme: just-the-docs/just-the-docs
+
+# Optional: show the sidebar
 nav:
   - title: Home
     url: index
