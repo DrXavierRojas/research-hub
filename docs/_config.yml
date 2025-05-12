@@ -1,0 +1,12 @@
+title: Research Hub
+description: Unified portal for academic research tooling
+theme: just-the-docs
+
+# Sidebar nav structure
+nav:
+  - title: Home
+    url: index
+  - title: Data Analysis
+    url: data-analysis
+  - title: Data Acquisition
+    url: data-acquisition
